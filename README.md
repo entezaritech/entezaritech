@@ -21,9 +21,9 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-neg03zlz1-c1eqwas-projects.vercel.app/api?username=CavageAPI&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-beige-two.vercel.app/api?username=CavageAPI&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats-neg03zlz1-c1eqwas-projects.vercel.app/api/top-langs/?username=CavageAPI&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-beige-two.vercel.app/api/top-langs/?username=CavageAPI&layout=compact&theme=radical&hide_border=true)
 
 ---
 
