@@ -21,9 +21,9 @@
 
 ### 📈 GitHub Stats
 
-![c1eqwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CavageAPI&show_icons=true&theme=radical&hide_border=true&v=1)
+![GitHub Stats](https://github-readme-stats-neg03zlz1-c1eqwas-projects.vercel.app/api?username=CavageAPI&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CavageAPI&layout=compact&theme=radical&hide_border=true&v=1)
+![Top Languages](https://github-readme-stats-neg03zlz1-c1eqwas-projects.vercel.app/api/top-langs/?username=CavageAPI&layout=compact&theme=radical&hide_border=true)
 
 ---
 
