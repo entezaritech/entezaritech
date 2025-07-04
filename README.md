@@ -12,13 +12,6 @@
 
 ---
 
-### 🔥 What I'm Working On
-
-- 🚓 Currently focused on building a **FiveM server** called [MercyCity](https://discord.gg/mercycity)  
-- 🧪 Exploring new tools & workflows to streamline development
-
----
-
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-beige-two.vercel.app/api?username=CavageAPI&show_icons=true&theme=radical&hide_border=true)
@@ -29,7 +22,8 @@
 
 ### 📬 _Contact_
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1088456302331711499)](https://discord.com/users/1088456302331711499)  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1088456302331711499)](https://discord.com/users/1088456302331711499)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/1088456302331711499)
+[![Mail](https://img.shields.io/badge/-Mail-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)(mailto:contact@entezari.dev)
 
 </div>
