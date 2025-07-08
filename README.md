@@ -13,9 +13,8 @@ Working with React · Lua · Vue.js · Next.js
 
 ---
 
-### 📊 GitHub Summary
+### 📊 GitHub Stats
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CavageAPI&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CavageAPI&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CavageAPI&theme=dracula) |
-|:--:|:--:|:--:|
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CavageAPI&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
