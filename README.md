@@ -26,7 +26,7 @@
 
 <br />
 
-<img src="https://github-readme-stats-beige-two.vercel.app/api/top-langs/?username=CavageAPI&layout=compact&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-beige-two.vercel.app/api/top-langs/?username=CavageAPI&layout=compact&theme=radical&hide_border=true" width="30%" />
 
 ---
 
