@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-beige-two.vercel.app/api?username=CavageAPI&show_icons=true&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CavageAPI&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 <img src="https://github-readme-stats-beige-two.vercel.app/api/top-langs/?username=CavageAPI&layout=compact&theme=radical&hide_border=true" width="49%" />
 
 ---
