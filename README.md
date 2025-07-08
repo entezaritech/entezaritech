@@ -22,7 +22,7 @@
 
 ### 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/CavageAPI/CavageAPI/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/CavageAPI/CavageAPI/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
