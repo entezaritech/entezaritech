@@ -9,8 +9,7 @@
 
 ### 🐍 `while(true) { eat(commit) }`
 
-![Dark Snake](https://raw.githubusercontent.com/CavageAPI/CavageAPI/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
-![Light Snake](https://raw.githubusercontent.com/CavageAPI/CavageAPI/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Dark Snake](https://raw.githubusercontent.com/CavageAPI/CavageAPI/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
