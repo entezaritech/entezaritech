@@ -1,32 +1,33 @@
 <div align="center">
 
-## 🧠 _self-taught fullstack developer._
+<h1>Shekib Entezari</h1>
 
-**💻 working with React, Lua, Vue.js, Next.js**  
+🧠 _Self-taught fullstack developer_  
+💻 _Working with React, Lua, Vue.js, Next.js_
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 `while(true) { eat(commit) }`
 
-![](https://raw.githubusercontent.com/CavageAPI/CavageAPI/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
+![Dark Snake](https://raw.githubusercontent.com/CavageAPI/CavageAPI/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
+![Light Snake](https://raw.githubusercontent.com/CavageAPI/CavageAPI/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,lua,js,ts,html,css,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,lua,js,ts,html,css,tailwind,git,github,vscode" alt="Tech Stack" width="100%" />
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-beige-two.vercel.app/api?username=CavageAPI&show_icons=true&theme=radical&hide_border=true)
+<img src="https://github-readme-stats-beige-two.vercel.app/api?username=CavageAPI&show_icons=true&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-beige-two.vercel.app/api/top-langs/?username=CavageAPI&layout=compact&theme=radical&hide_border=true" width="49%" />
 
-![Top Languages](https://github-readme-stats-beige-two.vercel.app/api/top-langs/?username=CavageAPI&layout=compact&theme=radical&hide_border=true)
+---
 
-
-### 📬 _Contact_
+### 📬 Contact
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1088456302331711499?theme=dark&borderRadius=30px&showDisplayName=true&bg=0D0F11)](https://discord.com/users/1088456302331711499)
 
