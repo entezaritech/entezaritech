@@ -6,6 +6,13 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake
+
+![](https://raw.githubusercontent.com/CavageAPI/CavageAPI/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+---
+
 ### 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,lua,js,ts,html,css,tailwind,git,github,vscode" />
@@ -18,15 +25,6 @@
 
 ![Top Languages](https://github-readme-stats-beige-two.vercel.app/api/top-langs/?username=CavageAPI&layout=compact&theme=radical&hide_border=true)
 
----
-
-### 🐍 GitHub Contribution Snake
-
-![Dark Snake](https://raw.githubusercontent.com/CavageAPI/CavageAPI/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Light Snake](https://raw.githubusercontent.com/CavageAPI/CavageAPI/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
----
 
 ### 📬 _Contact_
 
