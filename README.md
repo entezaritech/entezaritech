@@ -34,6 +34,9 @@ I'm a Full Stack Developer
 ![SACC](https://img.shields.io/badge/sass%2Fscss-1c1c1c.svg?style=for-the-badge&logo=sass&logoColor=CC6699)
 
 
+### GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=EntezariTech&theme=radical&hide_border=true&exclude_days=0)
+
 
 ## Contact
 [![Discord Presence](https://lanyard.cnrad.dev/api/1088456302331711499)](https://discord.com/users/1088456302331711499)   
